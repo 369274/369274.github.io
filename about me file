@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<header>
+<nav>
+<ul>
+<a href=".?index.html"><li>Home</li></a>
+<a href="./aboutme.html"><li>About Me</li></a>
+</ul>
+</nav>
+</header>
+<body>
+<h1>About Me</h1>
+<p>What am I working toward in my personal and professional life and what experiences led me here? Currently in my personal life, I'm trying to figure out what career path is right for me in the moment. I'm interested in aviation and plan to go to the army and find a job to work there. I have also been practicing my running for when track season comes to achieve better times on my meets and beat my personal records.
+How am I working toward these goals? I have to study a lot to achieve a high score to pass my ASVAB in order to receive better jobs. I have to be consistent with my running in order to get used to it and have better endurance.
+What values do I consider most necessary for my success? I have to have a strong mindset and challenge myself to keep pushing through. I need to have perseverance. 
+What short-term goals do I hope to accomplish in the near future? I want to get my license this month and be able to finish Highschool with good grades. I am also going to take online classes in hopes of boasting my GPA to at least a 3.5. 
+What are the character traits and achievements I most want to be known for? I want to be able to receive an academic rewards. I also want to be recognized for some kind of work ethic.</p>
+</body>
+<footer>
+</footer>
+</html>
